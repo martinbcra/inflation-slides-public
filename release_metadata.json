@@ -1,7 +1,7 @@
 {
-  "published_at_utc": "2026-07-18T11:56:36.215115+00:00",
-  "bea_personal_income_and_outlays_release_utc": "",
-  "next_bea_personal_income_and_outlays_release_utc": "2026-07-30T12:30:00+00:00",
+  "published_at_utc": "2026-07-30T14:04:54.345796+00:00",
+  "bea_personal_income_and_outlays_release_utc": "2026-07-30T12:30:00+00:00",
+  "next_bea_personal_income_and_outlays_release_utc": "2026-08-26T12:30:00+00:00",
   "bea_release_schedule_url": "https://apps.bea.gov/API/signup/release_dates.json",
   "bls_consumer_price_index_latest_month": "2026-06",
   "bls_consumer_price_index_series_url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUSR0000SA0",
